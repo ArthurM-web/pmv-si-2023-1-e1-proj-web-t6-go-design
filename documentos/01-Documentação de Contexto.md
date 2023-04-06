@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A tecnologia tem grande impacto na maneira como designers buscam empregos em como as empresas buscam por esses profissionais. Antes do avanço da tecnologia e das redes sociais, designers geralmente encontravam trabalhos por meio  de conexões pessoais, refêrencias ou por meio de agências. Atualmente a internet se tornou uma plataforma fundamental para a busca de trabalho, com o aumento da popularidade das plataformas de trabalho freelancer e sites de contratação online, designers agora têm acesso a uma ampla gama de oportunidades de trabalhos remoto em todo o mundo. 
+
+A aplicação web que será apresentada tem como objetivo facilitar o networking e as conexões entre profissionais da área de designer gráfico, visando atend as neces do mercado de recruta. A plataforma oferece aos designers a possibilidade de encontrar novas oportunidades de trabalho, divulgando seu portfólio com seus projetos e permitindo que outros usúarios visualizem seu perfil  para encontrar vagas compatíveis com suas experiências.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
