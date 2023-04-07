@@ -1,11 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10734667&assignment_repo_type=AssignmentRepo)
 # GO DESIGN
 
-`CURSO`  
+Sistemas de Informação
 
-`DISCIPLINA`
+Projeto - Aplicações Web - 1º semestre
 
-`SEMESTRE`
 
 Go Design consiste em um projeto realizado por alunos do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUCMG) que tem como intuito desenvolver um sistema que possibilite o networking entre profissionais da área de designer gráfico, divulgando seu portfólio e oferecendo a possibilidade de encontrar novas oportunidades de trabalho freelancer conectando-se com aqueles que precisam de seus serviços.
 
