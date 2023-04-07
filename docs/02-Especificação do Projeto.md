@@ -48,16 +48,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| A aplicação deve implementar um sistema de busca de vagas de trabalho freelancer   | ALTA | 
+|RF-002| Permitir que usuários se candidatem a vagas disponíveis   | ALTA |
+|RF-003| A aplicação deve permitir que o usuário cadastre suas certificações | ALTA| 
+|RF-004| A aplicação deve permitir o contato entre usuários e contratantes atráves de um chat | ALTA |
+|RF-005| O cadastro de experiências profissionais deve incluir informações como tempo de atuação e descrição das atividades  | MÉDIA |
+|RF-006| A aplicação deve implementar o login de usuários para acessar a plataforma  | ALTA | 
+|RF-007| A aplicação deve permitir o cadastro de experiências profissionais para usuários | ALTA | 
+|RF-008| Implementar um sistema de classificação por notas para avaliar usuários e empresas | MÉDIA | 
+|RF-009| Permitir o cadastro das empresas/contratantes  | ALTA | 
+|RF-010| Permitir o cadastro de usuários que procuram por vagas| ALTA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser acessivel atráves de qualquer navegador | MÉDIA | 
+|RNF-002| A aplicação deve ter boa usabilidade e ser intuitiva para os usuários | ALTA | 
+|RNF-003| A aplicação deve ser desenvolvida em HTML, CSS e JavaScript  | ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -80,8 +88,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser finalizado até 02/07/23 |
+|02| Não pode ser desenvolvido um módulo de backend|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
