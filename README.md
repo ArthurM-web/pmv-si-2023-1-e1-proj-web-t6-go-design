@@ -7,7 +7,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Go Design consiste em um projeto realizado por alunos do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUCMG) que tem como intuito desenvolver um sistema que possibilite o networking entre profissionais da área de designer gráfico, divulgando seu portfólio e oferecendo a possibilidade de encontrar novas oportunidades de trabalho freelancer conectando-se com aqueles que precisam de seus serviços.
 
 ## Integrantes
 
