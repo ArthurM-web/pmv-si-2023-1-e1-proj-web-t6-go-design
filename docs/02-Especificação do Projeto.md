@@ -14,7 +14,9 @@ os seguintes projetos anexados no portfólio, com o seu principal foco em
 trabalho, com o intuito de vender os seus serviços para uma determinada
 aplicação. Pensando também em se desenvolver profissionalmente.
 
-2. 
+2. Clara, 28 anos, empresária.
+
+Clara é a proprietária de uma startup de tecnologia que está em fase inicial. Ela tem uma boa equipe de desenvolvedores, mas percebeu que a interface do usuário e o design do aplicativo precisam ser melhorados. Ela está procurando designers experientes para ajudá-la a criar uma experiência de usuário única para seu aplicativo. 
 
 ## Histórias de Usuários
 
@@ -23,7 +25,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Alan  | Divulgar seu trabalho como designer gráfico       | Para se candidatar a vagas que combinem com seu perfil               |
-|       |                |   |
+|Clara      | Encontrar designers para sua empresa               |  Para trazer uma boa expência ao usuário
 
 
 
