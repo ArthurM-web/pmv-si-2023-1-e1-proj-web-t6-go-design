@@ -38,7 +38,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| A aplicação deve implementar um sistema de busca de vagas de trabalho freelancer   | ALTA | 
 |RF-002| Permitir que usuários se candidatem a vagas disponíveis   | ALTA |
-|RF-003| A aplicação deve permitir que o usuário cadastre suas certificações | ALTA| 
+|RF-003| A aplicação deve permitir que o usuário cadastre suas certificações | MÉDIA | 
 |RF-004| A aplicação deve permitir o contato entre usuários e contratantes atráves de um chat | ALTA |
 |RF-005| O cadastro de experiências profissionais deve incluir informações como tempo de atuação e descrição das atividades  | MÉDIA |
 |RF-006| A aplicação deve implementar o login de usuários para acessar a plataforma  | ALTA | 
