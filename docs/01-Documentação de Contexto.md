@@ -21,10 +21,6 @@ resolva com facilidade e rapidez com a procura desses profissionais.
 Considerando a realidade econômica de cada empresa, escolhendo o
 profissional que melhor irá "compensar" para aquela determinada aplicação.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -44,8 +40,6 @@ profissional pretendido.
 ● Desenvolver uma plataforma para a divulgação desses profissionais,
 contendo área de informações e exposição dos trabalhos já realizados
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 No meio empresarial, acontece a certa dificuldade em encontrar profissionais
@@ -59,8 +53,6 @@ sistema, onde conterá o cadastro do profissional, servindo como divulgação do
 mesmo e também para uso de busca para as empresas.
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 Pessoas de todos os gêneros e idades que prestem serviço como designer.
@@ -69,8 +61,3 @@ autônoma, para reproduzir peças de comunicação visual e layouts, sem uma
 restrição a qualquer tipo de especificação de trabalho
 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
