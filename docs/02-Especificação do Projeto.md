@@ -5,7 +5,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-1. Alan, 32 anos, bacharel em publicidade e propagando na PUC – MG.
+1. Alan, 32 anos, bacharel em Publicidade e Propaganda na PUC – MG.
 
 Trabalha com projetos na área de designer há cinco anos, tendo desenvolvido
 os seguintes projetos anexados no portfólio, com o seu principal foco em
@@ -13,9 +13,13 @@ os seguintes projetos anexados no portfólio, com o seu principal foco em
 trabalho, com o intuito de vender os seus serviços para uma determinada
 aplicação. Pensando também em se desenvolver profissionalmente.
 
-2. Clara, 28 anos, empresária.
+2. Clara, 30 anos, empresária.
 
 Clara é a proprietária de uma startup de tecnologia que está em fase inicial ela adora tecnologia e é muito envolvida com a comunidade de startups em sua cidade, também gosta de arte e design, e aprecia peças criativas e originais. Sua empresa tem uma boa equipe de desenvolvedores, mas percebeu que a interface do usuário e o design do aplicativo precisam ser melhorados. Clara sabe que o mercado de tecnologia é altamente competitivo e está sempre em constante mudança, por isso ela quer garantir que seu aplicativo seja fácil de usar e atraente para os clientes, ela está procurando designers experientes para ajudá-la a criar uma experiência de usuário única para seu aplicativo. 
+
+3. Pedro, 27 anos, bacharel em Designer Gráfico
+
+Pedro é um designer gráfico recém-formado que está procurando se estabelecer na área. Ele já trabalhou em alguns projetos freelancer, mas está procurando mais oportunidades para divulgar seu trabalho, ele  quer encontrar maneiras de apresentar seu portfólio de forma criativa para potenciais clientes e empregadores. Pedro sabe que a concorrência no mercado de design gráfico é grande, e que é importante se destacar para conseguir novos trabalhos devido a isso ele busca oportunidades de networking para expandir sua rede de contatos e aumentar suas chances de conseguir trabalhos futuros.
 
 ## Histórias de Usuários
 
@@ -23,9 +27,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Alan  | Divulgar seu trabalho como designer gráfico       | Para se candidatar a vagas que combinem com seu perfil               |
+|Alan  | Divulgar seu trabalho como designer gráfico       | Se candidatar a vagas e se desenvolver profissionalmente              |
 |Clara      | Encontrar designers para sua empresa               |  Para melhorar a interface do usuário e o design do aplicativo de sua startup
-
+| Pedro | Apresentar seu portifólio | Expandir sua rede de contatos para se estabelecer na área
 
 
 
