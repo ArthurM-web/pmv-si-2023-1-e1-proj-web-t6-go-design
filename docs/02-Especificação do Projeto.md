@@ -16,7 +16,7 @@ aplicação. Pensando também em se desenvolver profissionalmente.
 
 2. Clara, 28 anos, empresária.
 
-Clara é a proprietária de uma startup de tecnologia que está em fase inicial. Ela tem uma boa equipe de desenvolvedores, mas percebeu que a interface do usuário e o design do aplicativo precisam ser melhorados. Ela está procurando designers experientes para ajudá-la a criar uma experiência de usuário única para seu aplicativo. 
+Clara é a proprietária de uma startup de tecnologia que está em fase inicial ela adora tecnologia e é muito envolvida com a comunidade de startups em sua cidade, também gosta de arte e design, e aprecia peças criativas e originais. Sua empresa tem uma boa equipe de desenvolvedores, mas percebeu que a interface do usuário e o design do aplicativo precisam ser melhorados. Clara sabe que o mercado de tecnologia é altamente competitivo e está sempre em constante mudança, por isso ela quer garantir que seu aplicativo seja fácil de usar e atraente para os clientes, ela está procurando designers experientes para ajudá-la a criar uma experiência de usuário única para seu aplicativo. 
 
 ## Histórias de Usuários
 
@@ -25,7 +25,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Alan  | Divulgar seu trabalho como designer gráfico       | Para se candidatar a vagas que combinem com seu perfil               |
-|Clara      | Encontrar designers para sua empresa               |  Para trazer uma boa expência ao usuário
+|Clara      | Encontrar designers para sua empresa               |  Para melhorar a interface do usuário e o design do aplicativo de sua startup
 
 
 
