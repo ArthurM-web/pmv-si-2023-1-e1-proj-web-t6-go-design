@@ -23,7 +23,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Alan  | Divulgar seu trabalho como designer gráfico       | Para se candidatar a vagas que combinem com seu perfil               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|       |                |   |
 
 
 
