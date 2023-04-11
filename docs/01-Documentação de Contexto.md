@@ -10,6 +10,7 @@ Muitas empresas hoje carecem de certos tipos de profissionais que exercem
 uma determinada função. O mesmo acontece com a área de "designers". Indo
 ao mercado para contratar e até mesmo pagando altos salários, além de outros
 gastos referente a contratação.
+
 Em virtude disso, algumas empresas fazem a busca por “freelancer”, porém
 encontrando uma dificuldade devido à falta de divulgação da mesma.
 Sendo, portanto, a aplicação desse Website nesse sentido. A divulgação desses
@@ -27,28 +28,46 @@ profissional que melhor irá "compensar" para aquela determinada aplicação.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+## Objetivo Geral
+Desenvolver um sistema, onde vai conter o cadastro do profissional, servindo
+como uma forma de divulgação dos trabalhos já realizados e também uma
+plataforma para procura de busca para quem necessita desse tipo especializado
+de designer.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+## Objetivo Específicos
+● Organizar a divulgação dos perfis de acordo com a nota dada pelos
+contratantes
+
+● Desenvolver uma interface dinâmica, que permita um contato rápido com o
+profissional pretendido.
+
+● Desenvolver uma plataforma para a divulgação desses profissionais,
+contendo área de informações e exposição dos trabalhos já realizados
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+No meio empresarial, acontece a certa dificuldade em encontrar profissionais
+"freelancers" na área de designer, seja por falta de divulgação da empresa ou
+até mesmo do designer sobre o seu trabalho… o que acaba prejudicando
+financeiramente uma empresa, por muitas vezes, contratar um funcionário por
+um tempo prolongado acerca da tarefa necessitada.
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Com o objetivo de solucionar o problema, o projeto se baseará na criação de um
+sistema, onde conterá o cadastro do profissional, servindo como divulgação do
+mesmo e também para uso de busca para as empresas.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+Pessoas de todos os gêneros e idades que prestem serviço como designer.
+Entretanto, nosso foco será nos designers gráficos, que atuam de forma
+autônoma, para reproduzir peças de comunicação visual e layouts, sem uma
+restrição a qualquer tipo de especificação de trabalho
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
