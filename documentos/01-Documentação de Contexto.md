@@ -9,9 +9,7 @@ A aplicação web que será apresentada tem como objetivo facilitar o networking
 
 Muitas empresas hoje carecem de certos tipos de profissionais que exercem uma determinada função. O mesmo acontece com a área de "designers". Indo ao mercado para contratar e até mesmo pagando altos salários, além de outros gastos referente a contratação.
 
-Em virtude disso, algumas empresas fazem a busca por “freelancer”, porém encontrando uma dificuldade devido à falta de divulgação da mesma.
-
-Sendo, portanto, a aplicação desse Website nesse sentido. A divulgação desses profissionais em uma "prateleira". Levando em consideração os custos, as qualificações, os projetos, a sua principal função, entre outros. Fazendo com que principalmente as empresas que precisem de uma solução momentânea, resolva com facilidade e rapidez com a procura desses profissionais. Considerando a realidade econômica de cada empresa, escolhendo o profissional que melhor irá "compensar" para aquela determinada aplicação. 
+Em virtude disso, algumas empresas fazem a busca por “freelancer”, porém encontrando uma dificuldade devido à falta de divulgação da mesma. Sendo, portanto, a aplicação desse Website nesse sentido. A divulgação desses profissionais em uma "prateleira". Levando em consideração os custos, as qualificações, os projetos, a sua principal função, entre outros. Fazendo com que principalmente as empresas que precisem de uma solução momentânea, resolva com facilidade e rapidez com a procura desses profissionais. Considerando a realidade econômica de cada empresa, escolhendo o profissional que melhor irá "compensar" para aquela determinada aplicação. 
 
 
 ## Objetivos
