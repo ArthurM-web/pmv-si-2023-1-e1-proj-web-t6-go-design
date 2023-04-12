@@ -6,16 +6,13 @@ A aplicação web que será apresentada tem como objetivo facilitar o networking
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Muitas empresas hoje carecem de certos tipos de profissionais que exercem uma determinada função. O mesmo acontece com a área de "designers". Indo ao mercado para contratar e até mesmo pagando altos salários, além de outros gastos referente a contratação.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Em virtude disso, algumas empresas fazem a busca por “freelancer”, porém encontrando uma dificuldade devido à falta de divulgação da mesma.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Sendo, portanto, a aplicação desse Website nesse sentido. A divulgação desses profissionais em uma "prateleira". Levando em consideração os custos, as qualificações, os projetos, a sua principal função, entre outros. Fazendo com que principalmente as empresas que precisem de uma solução momentânea, resolva com facilidade e rapidez com a procura desses profissionais. Considerando a realidade econômica de cada empresa, escolhendo o profissional que melhor irá "compensar" para aquela determinada aplicação. 
+
 
 ## Objetivos
 
