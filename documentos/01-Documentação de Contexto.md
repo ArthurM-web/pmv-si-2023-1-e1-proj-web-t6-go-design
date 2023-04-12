@@ -23,12 +23,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+No meio empresarial, acontece a certa dificuldade em encontrar profissionais "freelancers" na área de designer, seja por falta de divulgação da empresa ou até mesmo do designer sobre o seu trabalho… o que acaba prejudicando financeiramente uma empresa, por muitas vezes, contratar um funcionário por um tempo prolongado acerca da tarefa necessitada.
+Com o objetivo de solucionar o problema, o projeto se baseará na criação de um sistema, onde conterá o cadastro do profissional, servindo como divulgação do mesmo e também para uso de busca para as empresas.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
