@@ -5,13 +5,13 @@
 
 A escolha dos integrantes para a realização de tarefas, será feita em conjunto e dividida de acordo com a necessidade e complexidade de cada tarefa. Será utilizada a plataforma de comunicação Teams para a realização de reuniões semanais e o Whatsapp para comunicação rápida e  discussão sobre próximas etapas do projeto. O desenvolvimento do projeto é baseado no padrão de gerenciamento de projetos Scrum, com papéis definidos e reuniões constantes para alinhamento do projeto entre os integrantes a fim de agilizar, organizar, disponibilizar auxílio mútuo entre os participantes e aumentar a performance ao entregar o projeto dentro dos prazos exigidos.
 
-## Especificação e Documentaçao do Projeto
+### Especificação e Documentaçao do Projeto
 Nesta etapa foram divididos os tópicos de definição de requisitos funcionais, requisitos não funcionais, restrições do sistema  e criação de personas, e restrições entre 4 integrantes do grupo, sendo cada um deles responsáveis pelo desenvolvimento de seu respectivo tópico. 
 
-## Fluxo de Usuário 
+### Fluxo de Usuário 
 Foi definida 1 pessoa para fazer o Fluxo de Usúario, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, foi levantada a quantidade de páginas do site necessárias para o usuário utilizar a aplicação. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema. Também foi o utilizado o Excalidraw (Disponivel em: https://excalidraw.com/ ) que consiste em uma plataforma de desenho simples para esboçar diagramas e organizar ideias, feitas a mão.
 
-## Wireframing
+### Wireframing
 Foi definida 3 pessoas para desenhar as telas da aplicação e 1 delas para o desenvolvimento da logo e designer . Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ )
 
 ### Programação:
