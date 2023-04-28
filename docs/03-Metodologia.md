@@ -59,9 +59,13 @@ O grupo faz reunião às quartas e quintas, nessas reuniões conversamos sobre a
 ### Ferramentas
 As ferramentas utilizadas no projeto são:
 Repositorio de conteúdo : Github
-Editor de código: Visual Studio Code 
+
+Editor de código: Visual Studio Code
+
 Ferramentas de comunicação: Teams e WhatsApp
+
 Ferramentas de desenho de tela (wireframing): Figma e Excalidraw 
+
 Para o gerenciamento de projetos será utilizado o Github Projects Classic e para o repositorio do conteúdo o Github, por ser plataformas que facilitam o gerenciamento do projeto, auxiliando no direcionamento de atividades e controle de prazos.
 
 O editor de código Visual Studio Code foi escolhido porque ele possui uma integração com o sistema de versão Git e Github. Além de ser uma ferramenta gratuita, facilitando o encontro de soluções e suporte necessario para o desenvolvimento do projeto. Também possui grande funções interligadas a diversas linguagens de programação.
