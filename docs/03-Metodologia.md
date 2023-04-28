@@ -51,7 +51,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-A divisão de tarefas foi pensada com a ideia de divisão, o grupo foi dividido ao longo do projeto para focar em determinadas sessões. Primeiro, era questionado a cada membro se havia interesse específico por algum tema da sessão, caso houvesse interesse de uma ou mais pessoas, esses eram designados para a tarefa até chegar ao limite determinado de pessoas. Caso não houvesse preferência, era feita a divisão por escolha do Scrum Master.
+A divisão de tarefas foi pensada com a ideia de divisão, o grupo que atualmente possui 5 pessoas  foi dividido ao longo do projeto para focar em determinadas sessões. Primeiro, era questionado a cada membro se havia interesse específico por algum tema da sessão, caso houvesse interesse de uma ou mais pessoas, esses eram designados para a tarefa até chegar ao limite determinado de pessoas. Caso não houvesse preferência, era feita a divisão por escolha do Scrum Master.
 
 ### Processo
 O grupo faz reunião às quartas e quintas, nessas reuniões conversamos sobre as tarefas a serem realizadas no projeto e também como podemos estar desenvolvendo uma solução. Esclarecemos não só dúvidas referentes ao trabalho, mas também geramos ideias. O acompanhamento do desenvolvimento do grupo é feito pelo Github, Teams e Whatssap.
