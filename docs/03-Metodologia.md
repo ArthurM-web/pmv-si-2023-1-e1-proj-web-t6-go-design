@@ -1,11 +1,9 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 A escolha dos integrantes para a realização de tarefas, será feita em conjunto e dividida de acordo com a necessidade e complexidade de cada tarefa. Será utilizada a plataforma de comunicação Teams para a realização de reuniões semanais e o Whatsapp para comunicação rápida e  discussão sobre próximas etapas do projeto. O desenvolvimento do projeto é baseado no padrão de gerenciamento de projetos Scrum, com papéis definidos e reuniões constantes para alinhamento do projeto entre os integrantes a fim de agilizar, organizar, disponibilizar auxílio mútuo entre os participantes e aumentar a performance ao entregar o projeto dentro dos prazos exigidos.
 
-### Especificação e Documentaçao do Projeto
+### Especificação do Projeto
 Nesta etapa foram divididos os tópicos de definição de requisitos funcionais, requisitos não funcionais, restrições do sistema  e criação de personas, e restrições entre 4 integrantes do grupo, sendo cada um deles responsáveis pelo desenvolvimento de seu respectivo tópico. 
 
 ### Fluxo de Usuário 
@@ -15,7 +13,7 @@ Foi definida 1 pessoa para fazer o Fluxo de Usúario, o qual consiste em um mape
 Foi definida 3 pessoas para desenhar as telas da aplicação e 1 delas para o desenvolvimento da logo e designer . Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ )
 
 ### Programação:
-Para o desenvolvimento de código será utilizado o editor de código Visual Studio Code, 2 pessoas foram rederecionadas a essa parte. As linguagens de programação que serão utilizadas para o desenvolvimento do site serão, HTML, CSS e JavaScript. Para o armazenamento dos componentes gráficos que serão desenvolvidos, será utilizada a biblioteca Booststrap.
+Para o desenvolvimento de código será utilizado o editor de código Visual Studio Code, 2 pessoas foram redirecionadas a essa parte. As linguagens de programação que serão utilizadas para o desenvolvimento do site serão, HTML, CSS e JavaScript. Para o armazenamento dos componentes gráficos que serão desenvolvidos, será utilizada a biblioteca Booststrap.
  
 
 ## Controle de Versão
@@ -59,13 +57,14 @@ O grupo faz reuniões às quartas e quintas com duração média em 15 a 20 minu
 
 ### Ferramentas
 As ferramentas utilizadas no projeto são:
-Repositorio de conteúdo : Github
 
-Editor de código: Visual Studio Code
+Repositorio de conteúdo : https://github.com/
 
-Ferramentas de comunicação: Teams e WhatsApp
+Editor de código: https://code.visualstudio.com/
 
-Ferramentas de desenho de tela (wireframing): Figma e Excalidraw 
+Ferramentas de comunicação: https://www.microsoft.com/pt-br/microsoft-teams e https://www.whatsapp.com/
+
+Ferramentas de desenho de tela (wireframing): https://www.figma.com/ e https://excalidraw.com/
 
 Para o gerenciamento de projetos será utilizado o Github Projects Classic e para o repositorio do conteúdo o Github, por ser plataformas que facilitam o gerenciamento do projeto, auxiliando no direcionamento de atividades e controle de prazos.
 
