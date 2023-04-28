@@ -5,6 +5,18 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
+A escolha dos integrantes para a realização de tarefas, será feita em conjunto e dividida de acordo com a necessidade e complexidade de cada tarefa. Será utilizada a plataforma de comunicação Teams para a realização de reuniões semanais e o Whatsapp para comunicação rápida e  discussão sobre próximas etapas do projeto. 
+
+## Especificação e Documentaçao do Projeto
+Nesta etapa foram divididos os tópicos de definição de requisitos funcionais, requisitos não funcionais, restrições do sistema  e criação de personas, e restrições entre 4  integrantes do grupo, sendo cada um deles responsáveis pelo desenvolvimento de seu respectivo tópico. 
+
+## Fluxo de Usuário 
+Foi definida 1 pessoa para fazer o Fluxo de Usúario, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, foi levantada a quantidade de páginas do site necessárias para o usuário utilizar a aplicação. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema. Também foi o utilizado o Excalidraw (Disponivel em: https://excalidraw.com/ ) que consiste em uma plataforma de desenho simples para esboçar diagramas e organizar ideias, feitas a mão.
+
+## Wireframing
+Foi definida 3 pessoas para desenhar as telas da aplicação e 1 delas para o desenvolvimento da logo e designer . Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ )
+ 
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -39,39 +51,25 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A divisão de tarefas foi pensada com a ideia de divisão, o grupo foi dividido ao longo do projeto para focar em determinadas sessões. Primeiro, era questionado a cada membro se havia interesse específico por algum tema da sessão, caso houvesse interesse de uma ou mais pessoas, esses eram designados para a tarefa até chegar ao limite determinado de pessoas. Caso não houvesse preferência, era feita a divisão por escolha do Scrum Master.
 
 ### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O grupo faz reunião às quartas e quintas, nessas reuniões conversamos sobre as tarefas a serem realizadas no projeto e também como podemos estar desenvolvendo uma solução. Esclarecemos não só dúvidas referentes ao trabalho, mas também geramos ideias. O acompanhamento do desenvolvimento do grupo é feito pelo Github, Teams e Whatssap.
 
 ### Ferramentas
+As ferramentas utilizadas no projeto são:
+Repositorio de conteúdo : Github
+Editor de código: Visual Studio Code 
+Ferramentas de comunicação: Teams e WhatsApp
+Ferramentas de desenho de tela (wireframing): Figma e Excalidraw 
+Para o gerenciamento de projetos será utilizado o Github Projects Classic e para o repositorio do conteúdo o Github, por ser plataformas que facilitam o gerenciamento do projeto, auxiliando no direcionamento de atividades e controle de prazos.
 
-As ferramentas empregadas no projeto são:
+O editor de código Visual Studio Code foi escolhido porque ele possui uma integração com o sistema de versão Git e Github. Além de ser uma ferramenta gratuita, facilitando o encontro de soluções e suporte necessario para o desenvolvimento do projeto. Também possui grande funções interligadas a diversas linguagens de programação.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+As ferramentas de comunicação utilizadas Teams e WhatsApp foram escolhidas devido a facil adesão dessas ferramentas pela equipe. O Teams possui ferramentas de agendamento de reuniões e compartilhamento de tela, além de gravações da reunião que permitem a visualização quantas vezes for necessária durante certo período de tempo.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+Para criar diagramas utilizamos a ferramenta Figma por melhor captar as necessidades da nossa solução. E o Excalidraw que é uma ferramenta simples de esboços permitindo a fácil visualizaççao de idéias.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
+
+
