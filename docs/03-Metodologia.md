@@ -64,7 +64,7 @@ Editor de código: https://code.visualstudio.com/
 
 Ferramentas de comunicação: https://www.microsoft.com/pt-br/microsoft-teams e https://www.whatsapp.com/
 
-Ferramentas de desenho de tela (wireframing): https://www.figma.com/ e https://excalidraw.com/
+Ferramentas de desenho de tela (wireframing): https://www.figma.com/ 
 
 Para o gerenciamento de projetos será utilizado o Github Projects Classic e para o repositorio do conteúdo o Github, por ser plataformas que facilitam o gerenciamento do projeto, auxiliando no direcionamento de atividades e controle de prazos.
 
@@ -72,8 +72,6 @@ O editor de código Visual Studio Code foi escolhido porque ele possui uma integ
 
 As ferramentas de comunicação utilizadas Teams e WhatsApp foram escolhidas devido a facil adesão dessas ferramentas pela equipe. O Teams possui ferramentas de agendamento de reuniões e compartilhamento de tela, além de gravações da reunião que permitem a visualização quantas vezes for necessária durante certo período de tempo.
 
-Para criar diagramas utilizamos a ferramenta Figma por melhor captar as necessidades da nossa solução. E o Excalidraw que é uma ferramenta simples de esboços permitindo a fácil visualizaççao de idéias.
-
-
+Para criar diagramas utilizamos a ferramenta Figma por melhor captar as necessidades da nossa solução. 
 
 
