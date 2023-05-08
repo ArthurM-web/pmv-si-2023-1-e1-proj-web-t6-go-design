@@ -1,7 +1,6 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 O Projeto de Inteface está organizado em 5 páginas: Homepage, Login, Cadastro, Recuperar Senha, Perfil.
 
