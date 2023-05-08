@@ -7,13 +7,13 @@ A escolha dos integrantes para a realização de tarefas, será feita em conjunt
 Nesta etapa foram divididos os tópicos de definição de requisitos funcionais, requisitos não funcionais, restrições do sistema  e criação de personas, e restrições entre 4 integrantes do grupo, sendo cada um deles responsáveis pelo desenvolvimento de seu respectivo tópico. 
 
 ### Fluxo de Usuário 
-Foi definida 1 pessoa para fazer o Fluxo de Usúario, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, foi levantada a quantidade de páginas do site necessárias para o usuário utilizar a aplicação. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema. Também foi o utilizado o Excalidraw (Disponivel em: https://excalidraw.com/ ) que consiste em uma plataforma de desenho simples para esboçar diagramas e organizar ideias, feitas a mão.
+Foi definida 1 pessoa para fazer o Fluxo de Usúario, o qual consiste em um mapeamento do trajeto que o usuário irá realizar ao entrar no site. Com isso, foi levantada a quantidade de páginas do site necessárias para o usuário utilizar a aplicação. Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ ) o qual consiste em uma plataforma de design de interfaces que permite a utilização de vários usuários para a criação de um produto, tendo uma variedade de possibilidades de criação para diversos tipos de plataformas e permite a acessibilidade em um sistema.
 
 ### Wireframing
-Foi definida 3 pessoas para desenhar as telas da aplicação e 1 delas para o desenvolvimento da logo e designer . Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ )
+Para essa etapa foi utilizado o Figma (Disponivel em: https://www.figma.com/ )
 
 ### Programação:
-Para o desenvolvimento de código será utilizado o editor de código Visual Studio Code, 2 pessoas foram redirecionadas a essa parte. As linguagens de programação que serão utilizadas para o desenvolvimento do site serão, HTML, CSS e JavaScript. Para o armazenamento dos componentes gráficos que serão desenvolvidos, será utilizada a biblioteca Booststrap.
+Para o desenvolvimento de código será utilizado o editor de código Visual Studio Code. As linguagens de programação que serão utilizadas para o desenvolvimento do site serão, HTML, CSS e JavaScript. Para o armazenamento dos componentes gráficos que serão desenvolvidos, será utilizada a biblioteca Booststrap.
  
 
 ## Controle de Versão
