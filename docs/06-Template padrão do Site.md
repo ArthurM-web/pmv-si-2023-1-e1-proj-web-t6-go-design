@@ -1,8 +1,20 @@
 # Template padrão do site
+A imagem a seguir representa a tela index da aplicação, tamanho desktop.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+![web](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6-go-design/assets/89883311/0379ecdd-7595-46f1-bf6f-9378267dba56)
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+A seguir, é apresentada a tela no tamanho mobile.
+
+![mobile](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6-go-design/assets/89883311/3bbd4896-2630-4cbd-a63e-6bbbbb05c17e)
+
+## CORES
+![cores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6-go-design/assets/89883311/90458d0a-e73f-49c9-957b-f43abc6921a6)
+
+A cor principal escolhida para a aplicação foi a #4E73DF
+
+
+
+
 
 > **Links Úteis**:
 >
