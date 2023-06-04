@@ -2,7 +2,7 @@
 # Projeto de Interface
 
 
-O Projeto de Inteface está organizado em 5 páginas: Homepage, Login, Cadastro, Recuperar Senha, Perfil.
+O Projeto de Inteface está organizado em 5 páginas: Index, Login, Cadastrar conta, Cadastrar Currículo, Recuperar Senha.
 
 
 ## User Flow
