@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/curriculo.css">
+    <link rel="stylesheet" href="css/curriculo1.css">
+    <title>Cadastro Currículo</title>
+</head>
+
+<body>
+    <header id="header">
+        <h1 class="title">GO DESIGN</h1>
+        <a href="/index.html" class="button_back">Retornar</a>
+    </header>
+    <main id="main">
+        <form class="form">
+            <h2 class="form_title">Cadastro Currículo</h2>
+
+            <div class="form_item">
+                <label for="name" class="form_label">Nome *</label>
+                <input type="text" name="name" id="name" class="form_input" required>
+            </div>
+
+            <div class="form_item">
+                <label for="lastName" class="form_label">Sobrenome *</label>
+                <input type="text" name="lastName" id="lastName" class="form_input" required>
+            </div>
+
+            <div class="form_item">
+                <label for="email" class="form_label">Email *</label>
+                <input type="email" name="email" id="email" class="form_input" required>
+            </div>
+
+            <div class="form_item">
+                <label for="message" class="form_label">Mensagem</label>
+                <textarea name="message" id="message" cols="30" rows="5"></textarea>
+            </div>
+
+            <button class="button_upload">Upload Arquivo</button>
+
+            <input type="submit" value="Enviar" class="button_submit">
+        </form>
+    </main>
+</body>
+
+</html>

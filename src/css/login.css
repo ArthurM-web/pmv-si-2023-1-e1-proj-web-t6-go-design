@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #4e73df;
+}
+nav a img{
+    width: 100px;
+    padding-top: 15px;
+
+}
+.login{
+   text-align: center;
+    background-color: rgb(122, 116, 116);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+    border-radius: 20px;
+   
+}
+.login input{
+padding: 20px;
+border: none;
+outline: none;
+border-radius: 20px;
+text-align: center;
+}
+
+.enviar:hover,
+.botao-final a button:hover{
+    background: orange;
+}
+.enviar{
+    width: 100%;
+    background-color: rgb(90, 104, 170);
+    border: none;
+    
+}
+h1{
+    font-weight: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px 0 100px;
+    flex-wrap: wrap;
+}
+
+nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+nav ul li{
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color: #939393;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+nav ul li a.active,
+nav ul li a:hover{
+    background: #f88f06;
+}
+
+nav .menu-btn i{
+    color: #1b1a1a;
+    cursor: pointer;
+    display: none;
+}
+
+.traco{
+    padding: 20px;
+    width: 100%;
+}
+
+
+.botao-final a button{
+    border-radius: 20px;
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+
+@media (max-width: 920px) {
+    nav .menu-btn i{
+        display: block;
+    }
+    nav ul{
+        position: fixed;
+        top: 80px;
+        left: -100%;
+        background-color: #003840;
+        height: 100vh;
+        width: 23%;
+        text-align: center;
+        display: block;
+        transition: all 0.3s ease;
+    }
+    nav ul.open{
+        left: 0;
+    }
+    nav ul li{
+        width: 100%;
+        margin: 50px 0;
+    }
+    nav ul li a {
+        font-size: 20px;
+        display: flex;
+    }
+    nav ul li a.active,
+    nav ul li a:hover{
+        background: none;
+        color: #f88f06;
+    }   
+    .login{
+        text-align: center;
+         background-color: rgb(122, 116, 116);
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         transform: translate(-50%,-50%);
+         padding: 20px;
+         border-radius: 20px;
+        
+     }
+
+     .login input{
+        padding: 10px;
+        border: none;
+        outline: none;
+        border-radius: 20px;
+        }
+    
+        .botao-final a button{
+            border-radius: 20px;
+            padding: 5px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            border: none;
+        }
+    }

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>Esqueceu a senha?</title>
+  <link rel="stylesheet" href="/esqueceusenha1.css">
+  <link rel="stylesheet" href="/esqueceusenha.css">
+  <meta charset="utf-8">
+
+  <style>
+    .Fundo-azul {
+      background-color: #4e73df;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    .card-branco {
+      /*bootstrap já tem um pronto*/
+      width: 50%;
+      background-color: #f8f9fc;
+      border-radius: 10px;
+      /*colocar o mesmo border-radius no input de e-mail*/
+      position: relative;
+      left: 500px;
+      top: 300px;
+      display: grid;
+      grid-template-columns: 50% 50%;
+      padding: 2em;
+    }
+
+    .coluna1 {
+      padding-right: 2em;
+      text-align: center;
+
+    }
+
+    .coluna2 {
+      padding-left: 2em;
+    }
+
+    .cardbutton {
+      margin: 1em;
+    }
+
+    .titulo {
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+    }
+
+    .subtitulo {
+      font-size: 17px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 1em;
+
+    }
+
+    input {
+      border-width: 1px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 0.8rem 0.8rem;
+
+    }
+
+    .btn {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 0.7rem 0.7rem;
+      font-size: 1rem;
+
+    }
+  </style>
+</head>
+
+<body>
+  <div class="Fundo-azul">
+    <div class="card-branco">
+      <div class="coluna1">
+        <div class="titulo">
+          Esqueceu a senha?
+        </div>
+        <div class="subtitulo">
+          Informe o seu e-mail para realizar a recuperação
+        </div>
+        <div class="cardbutton">
+          <input type="email " class="w-100 rounded-pill" placeholder="Email">
+        </div>
+        <div class="cardbutton">
+          <button type="button" class="btn btn-primary w-100 rounded-pill btn-lg">Resetar Senha</button>
+        </div>
+        <hr>
+        </hr>
+        <div class="cardbutton">
+          <a href="/cadastro.html">
+          <button type="button" class="btn btn-outline-primary w-100 rounded-pill border-white">Criar Conta</button>
+          
+        
+
+        </div>
+        </div>
+      </div>
+      <div class="coluna2">
+
+      </div>
+    </div>
+  </div>
+
+</body>
