@@ -3,25 +3,34 @@
 
 <head>
   <title>Esqueceu a senha?</title>
-  <link rel="stylesheet" href="/esqueceusenha1.css">
-  <link rel="stylesheet" href="/esqueceusenha.css">
-  <meta charset="utf-8">
+  <link rel="stylesheet" href="../src/css/esqueceusenha.css">
+  <link rel="stylesheet" href="../src/css/esqueceusenha1.css">
+  <script src="../src/js/esqueciminhasenha.js"></script>
 
   <style>
+    .header {
+      width: auto;
+      height: 20%;
+    }
+
+    .img {
+      width: 20%;
+      max-width: 100%;
+      height: auto;
+    }
+
     .Fundo-azul {
       background-color: #4e73df;
-      height: 100vh;
-      width: 100vw;
+      height: 47.25vw;
+      width: 100%;
     }
 
     .card-branco {
-      /*bootstrap já tem um pronto*/
+     
       width: 50%;
       background-color: #f8f9fc;
       border-radius: 10px;
-      /*colocar o mesmo border-radius no input de e-mail*/
-      position: relative;
-      left: 500px;
+      left: 800px;
       top: 300px;
       display: grid;
       grid-template-columns: 50% 50%;
@@ -44,32 +53,36 @@
 
     .titulo {
       font-size: 25px;
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, Helvetica, sans - serif;
       color: black;
     }
 
     .subtitulo {
       font-size: 17px;
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, Helvetica, sans - serif;
       margin: 1em;
 
     }
 
     input {
       border-width: 1px;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans - serif;
       padding: 0.8rem 0.8rem;
 
     }
 
     .btn {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans - serif;
       padding: 0.7rem 0.7rem;
       font-size: 1rem;
 
     }
   </style>
 </head>
+<div class="header">
+  <img src="img\godesign.png" alt style="
+width: 10%; margin-left: 45%;">
+</div>
 
 <body>
   <div class="Fundo-azul">
@@ -79,29 +92,26 @@
           Esqueceu a senha?
         </div>
         <div class="subtitulo">
-          Informe o seu e-mail para realizar a recuperação
+          <!--Informe o seu e-mail para realizar a recuperação-->
         </div>
         <div class="cardbutton">
-          <input type="email " class="w-100 rounded-pill" placeholder="Email">
+          <input type="email " id="email" class="w-100 rounded-pill" placeholder="Email">
         </div>
+        <!--botao de redefinição de senha-->
         <div class="cardbutton">
-          <button type="button" class="btn btn-primary w-100 rounded-pill btn-lg">Resetar Senha</button>
+          <button type="button" class="btn btn-primary w-100 rounded-pill btn-lg" onclick="verificarEmail(document.getElementById('email').value)">Resetar Senha</button>
         </div>
         <hr>
         </hr>
+        <!-- botão que transfere para a pagina de criar conta -->
         <div class="cardbutton">
-          <a href="/cadastro.html">
-          <button type="button" class="btn btn-outline-primary w-100 rounded-pill border-white">Criar Conta</button>
-          
-        
-
+          <a href="../src/cadastro.html" type="button" id=ccbutton class="btn btn-outline-primary w-100 rounded-pill border-white">Criar Conta</a>
         </div>
-        </div>
-      </div>
-      <div class="coluna2">
-
       </div>
     </div>
+    <div class="coluna2">
+    </div>
+  </div>
   </div>
 
 </body>

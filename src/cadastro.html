@@ -2,27 +2,29 @@
 <html>
 <head>
     <title>Página de Cadastro</title>
-    <link rel="stylesheet" href="/css/cadastro.css" >
+    <link rel="stylesheet" href="../src/css/cadastro.css">
 </head>
 <body>
     <div class="container">
         <div class="title">Criar Conta</div>
         <div class="input-group">
-            <input type="text" placeholder="Nome">
-            <input type="text" placeholder="Sobrenome">
+            <input type="text" id="nome" placeholder="Nome">
+            <input type="text" id="sobrenome" placeholder="Sobrenome">
         </div>
         <div class="input-group">
-        <input type="text" placeholder="Email">
+            <input type="text" id="email" placeholder="Email">
         </div>
         <div class="input-group">
-            <input type="password" placeholder="Senha">
-            <input type="password" placeholder="Repita a Senha">
+            <input type="password" id="senha" placeholder="Senha">
+            <input type="password" id="confirmarSenha" placeholder="Repita a Senha">
         </div>
-        <button class="button">Criar Conta</button>
+        <button class="button" id="criarContaBtn">Criar Conta</button>
         <div class="links">
-            <a href="/esqueceusenha.html">Esqueceu sua senha?</a> |
-            <a href="/login.html">Tem uma conta? Faça login!</a>
+            <a href="../src/esqueceusenha.html">Esqueceu sua senha?</a> |
+            <a href="../src/login.html">Tem uma conta? Faça login!</a>
         </div>
     </div>
+
+    <script src="../src/js/Cadastro.js"></script>
 </body>
 </html>
