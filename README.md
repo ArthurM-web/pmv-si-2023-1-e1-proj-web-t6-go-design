@@ -18,6 +18,7 @@ Oferecemos a possibilidade do uso desta aplicação para impulsionar a carreira 
 * Lucas de Souza Nassif Lemos
 * Maria Cândida Torres Ferreira Costa Guerra
 * Vitor Alberto Gonçalves Cavaco
+* Thiago Henrique de Faria Borges
 
 ## Orientador
 
