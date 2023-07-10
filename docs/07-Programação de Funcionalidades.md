@@ -4,12 +4,17 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+### Requisitos Funcionais
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+|ID    | Descrição do Requisito | Prioridade | Artefato Criado |
+|------|------------------------|------------|-----------------|
+|RF-001| A aplicação deve implementar um sistema de busca de vagas de trabalho freelancer   | ALTA | index.html
+|RF-002| Permitir que usuários se candidatem a vagas disponíveis   | ALTA | index.html
+|RF-003| A aplicação deve permitir que o usuário cadastre suas certificações | MÉDIA |  cadastro.html
+|RF-004| A aplicação deve implementar o login de usuários para acessar a plataforma  | ALTA | login.html
+|RF-005| A aplicação deve permitir o cadastro de experiências profissionais para usuários | ALTA | curriculo.html
+|RF-006| Permitir o cadastro de usuários que procuram por vagas| ALTA | cadastro.html
+|RF-007| A aplicação permite que o usuario redefina a sua senha caso esqueça | MÉDIA | esqueceusenha.html
+
+
+
