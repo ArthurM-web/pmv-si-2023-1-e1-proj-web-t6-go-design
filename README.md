@@ -46,7 +46,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+Servidor Local XAMPP 
 
 # Armazenamento do Código-Fonte
 
