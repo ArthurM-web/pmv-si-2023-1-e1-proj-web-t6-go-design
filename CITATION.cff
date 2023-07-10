@@ -1,0 +1,25 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: GO DESIGN
+authors:
+  - family-names: Lopes Pimenta
+    given-names: Lorena
+  - family-names: Alberto Gonçalves Cavaco
+    given-names: Vitor
+  - family-names: de Souza Nassif Lemos
+    given-names: Lucas
+  - family-names: Medeiros de Moraes
+    given-names:  Arthur
+  - family-names: Cândida Torres Ferreira Costa Guerra
+    given-names: Maria
+  - name-suffix: Professor 
+    affiliation: PUC Minas
+    family-names: Jesus Daher de Oliveira
+    given-names: Nesley 
+keywords:
+  - GO
+  - DESIGN
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6-go-design
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2023-07-10
