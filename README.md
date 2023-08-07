@@ -5,7 +5,7 @@
 
                                                   Sistemas de Informação
 
-                                            Projeto - Aplicações Web - 1º semestre
+                                            Projeto - Aplicações Web
 
 
 Go Design consiste em um projeto realizado por alunos do curso de Sistemas de Informação da Pontifícia Universidade Católica de Minas Gerais (PUCMG) que tem como intuito desenvolver um sistema que possibilite o networking entre profissionais da área de designer gráfico, divulgando seu portfólio e oferecendo a possibilidade de encontrar novas oportunidades de trabalho freelancer conectando-se com aqueles que precisam de seus serviços.
